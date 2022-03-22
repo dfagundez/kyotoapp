@@ -1,0 +1,18 @@
+{
+  "name": "kyotoapp",
+  "version": "1.0.0",
+  "description": "Minimalist application to watch YouTube videos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@own:dfagundez/kyotoapp.git"
+  },
+  "author": "Diego Fagundez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.2"
+  }
+}
